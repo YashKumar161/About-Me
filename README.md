@@ -1,12 +1,13 @@
 # Welcome to Yash Kumar's Professional Portfolio Repository! 📂
 
+Welcome to my professional portfolio repository! This repository is designed to showcase my certificates, offer letters, and provide a detailed overview of my professional background and achievements.
+
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D5603AQHvoIgmZM59ZQ/profile-displayphoto-shrink_400_400/0/1713079126848?e=1721865600&v=beta&t=c2qkLGRdGtsNMazVCYALlcE0K08uDC7HVLkU_Xm_ZS8" alt="Yash Kumar" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 **B.Tech Student | Python Developer | Data Science & ML Enthusiast | Ninja Dominator | 28x DSA Badges | 2x University Topper @Code360 | LeetCode Contributor**
 
-Welcome to my professional portfolio repository! This repository is designed to showcase my certificates, offer letters, and provide a detailed overview of my professional background and achievements.
 
 ## About Me
 
