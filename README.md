@@ -69,3 +69,5 @@ This repository is organized into the following sections:
 ├── Offer Letters/
 │   └── ...
 └── README.md
+
+**Note: You cannot view .pdf files directly here. To view the files or clone the Git repository, please download or clone the repository to your local machine.**
