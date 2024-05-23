@@ -20,6 +20,18 @@ B.Tech Student | Python Developer | Data Science & ML Enthusiast | Ninja Dominat
 - **LinkedIn:** [Yash Kumar Talan](https://www.linkedin.com/in/yash-kumar-talan/)
 - **Website:** [Yash Kumar's Website](https://www.yashkumar.pro)
 
+### Education
+
+- **B.Tech in Computer Science and Engineering**
+  - **Duration:** 2022-2026 (Currently ongoing)
+  - **Institution:** Galgotias University, India
+  - **Grade:** 8 CGPA
+
+- **Senior Secondary (12th Grade)**
+  - **Year:** 2021
+  - **School:** Pragyan Public School, India
+  - **Percentage:** 75% with PCM (Physics, Chemistry, Mathematics) with Computer Science
+
 ### Coding Excellence
 
 - Published over 30 questions on LeetCode and solved 800+ questions on Coding Ninjas Studio, earning 28 master badges in Data Structures and Algorithms (DSA).
