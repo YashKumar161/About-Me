@@ -4,7 +4,7 @@ Welcome to the "Offer Letters" section of my professional portfolio! In this fol
 
 Explore the offer letters to gain insights into the positions I've been offered and the organizations I've had the opportunity to work with.
 
-**Note: You cannot view .pdf files directly here. To view the files or clone the Git repository, please download or clone the repository to your local machine.**
+**Note: If you are not able to view '.pdf' files directly here, To view the files or clone the Git repository, please download or clone the repository to your local machine.**
 
 If you have any questions or would like to discuss my professional experience further, feel free to reach out!
 
